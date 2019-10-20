@@ -13,3 +13,7 @@ This file contains the main code, which is divided into two main parts:
 - Haotian Zheng
 - Padmini
 - Samapriya Dandibhotla
+
+# Resourse: 
+- https://machinelearningmastery.com/use-pre-trained-vgg-model-classify-objects-photographs/
+- https://www.learnopencv.com/keras-tutorial-fine-tuning-using-pre-trained-models/
