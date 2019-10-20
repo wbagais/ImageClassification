@@ -4,7 +4,8 @@ The challenge details available in https://github.com/vennergd/PatriotHack
 
 
 ## image_classification.ipynb: 
-this file contains the main code; the code divided into two main parts:
-- <b>Predict image classification based on the pre-train model: </b> We used Vgg16 and VGG19, and based on the testing, Vgg16 is a better model.
-- <b>Edit the pre-tarin model to predict images based on the nine classifications in the images folder: </b> Also, the Vgg16 perform better in the edited version. 
+This file contains the main code, which is divided into two main parts:
+- <b>Predict image classification based on the pre-trained model: </b> We used VGG16 and VGG19, and based on the testing, VGG16 is a better model.
+- <b>Edit the pre-trained model to predict images based on the nine classifications in the images folder: </b> Also, the VGG16 performs better in the edited version. 
 
+# Authors: Wejdan Bagais, Haotian Zheng, Padmini, Samapriya Dandibhotla
